@@ -109,7 +109,7 @@ Here are some anime that inspire me deeply:
   
 ![MAL](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
 ![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
-![Anime](https://img.shields.io/badge/Currently%20Watching-86%20Eighty%20Six-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![Anime](https://img.shields.io/badge/Currently%20Watching-%20Solo%20Leveling-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 ![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
 
