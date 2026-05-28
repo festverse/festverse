@@ -119,8 +119,8 @@ Here are some anime that inspire me deeply:
 
 ## 💕 Loved My Work?
 
-🫂 [Follow me on GitHub](https://github.com/festverse/festverse) <br/>
-⭐ [Give a star to this project](https://github.com/festverse/festverse/)
+- [Follow me on GitHub](https://github.com/festverse/festverse) <br/>
+- [Give a star to this project](https://github.com/festverse/festverse/)
 
 ---
 
