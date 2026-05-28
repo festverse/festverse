@@ -65,7 +65,7 @@ Here are some anime that inspire me deeply:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=festverse&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
-  <img src="https://mygithubinsights.vercel.app/api/insight?username=festverse&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="850" />
+  <img src="https://mygithubinsights.vercel.app/api/insight?username=festverse&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="810" />
 </picture>
   
 </div>
@@ -111,7 +111,7 @@ Here are some anime that inspire me deeply:
 ![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
 ![Anime](https://img.shields.io/badge/Currently%20Watching-%20Solo%20Leveling-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-![Anime Image](https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=768&h=474&crop=1)  
+<img src="https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=1536&h=948&crop=1" alt="Anime Image" width="81%">
 
 *Stay inspired, stay true to yourself, and keep pushing forward!*
 
