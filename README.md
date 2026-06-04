@@ -68,8 +68,14 @@ Here are some anime that inspire me deeply:
   <img src="https://mygithubinsights.vercel.app/api/insight?username=festverse&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="810" />
 </picture>
 
-<img src="https://leetcard.jacoblin.cool/festverse?theme=dark&font=Babylonica&ext=contest" width="810" />
+</div>
+
+## </> Leetcode Stats
+
+<div align="center">
   
+<img src="https://leetcard.jacoblin.cool/festverse?theme=dark&font=Babylonica&ext=contest" width="810" />
+
 </div>
 
 ## ☎️ Connect With Me
