@@ -70,7 +70,7 @@ Here are some anime that inspire me deeply:
 
 </div>
 
-## </> Leetcode Stats
+## </> LeetCode Stats
 
 <div align="center">
   
