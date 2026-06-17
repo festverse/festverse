@@ -70,14 +70,6 @@ Here are some anime that inspire me deeply:
 
 </div>
 
-## </> LeetCode Stats
-
-<div align="center">
-  
-<img src="https://leetcard.jacoblin.cool/festverse?theme=dark&font=Babylonica&ext=contest" width="810" />
-
-</div>
-
 ## ☎️ Connect With Me
 
 <div align="center">
