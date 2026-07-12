@@ -137,4 +137,11 @@ Here are some anime that inspire me deeply:
 </picture>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/festverse/festverse/main?label=Last%20Updated&style=for-the-badge&logo=github&logoColor=white&color=7C3AED)](https://github.com/festverse/festverse/commits)
-![](https://komarev.com/ghpvc/?username=festverse&style=for-the-badge&logo=github&base=713)
+
+[![Pofile views](https://u8views.com/api/v1/github/profiles/157171073/views/day-week-month-total-count.svg)](https://u8views.com/github/festverse)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
+
+</div>
