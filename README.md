@@ -58,7 +58,7 @@ Here are some anime that inspire me deeply:
 <div align="center">
 
 <a href="https://github.com/festverse">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=festverse&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+<img src="https://github-widgetbox-one.vercel.app/api/profile?username=festverse&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
 </a>
 
   
