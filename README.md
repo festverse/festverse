@@ -63,9 +63,9 @@ Here are some anime that inspire me deeply:
 
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <img src="https://yourinsights.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="810" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-insights-plum.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://git-hub-insights-plum.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <img src="git-hub-insights-plum.vercel.app/api/insight?username=festverse&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="810" />
 </picture>
 
 </div>
