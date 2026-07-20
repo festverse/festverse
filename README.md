@@ -94,9 +94,9 @@ Here are some anime that inspire me deeply:
       <br/>
       <i>"A person grows up when he's able to overcome hardships."</i>
       <br/><br/>
-      <b>— Naruto Uzumaki, Naruto Shippuden</b>
+      <b>~ Naruto Uzumaki; Naruto Shippuden</b>
       <br/><br/>
-      <sub>This quote pushes me forward in every challenge — personal and professional alike.</sub>
+      <sub>This quote pushes me forward in every challenge, personal and professional alike.</sub>
       <br/>
     </td>
   </tr>
@@ -120,7 +120,7 @@ Here are some anime that inspire me deeply:
 ## 💕 Loved My Work?
 
 - [Follow me on GitHub](https://github.com/festverse/festverse) <br/>
-- [Give a star to this project](https://github.com/festverse/festverse/)
+- [Give a star to this project](https://github.com/festverse/festverse)
 
 ---
 
