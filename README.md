@@ -72,6 +72,12 @@ Here are some anime that inspire me deeply:
 
 ## ☎️ Connect With Me
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkzpbxnhgnx7iqi4nnjf64f2zq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dkzpbxnhgnx7iqi4nnjf64f2zq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark" width="810">
+  </a>
+</p>
+
 <div align="center">
 
 *Feel free to reach out to me through any of the platforms below*
