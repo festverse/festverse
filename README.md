@@ -113,7 +113,7 @@ Here are some anime that inspire me deeply:
 ![Anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)
 ![Anime](https://img.shields.io/badge/Currently%20Watching-%20Solo%20Leveling-E0234E?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-<img src="https://animeallinblog.wordpress.com/wp-content/uploads/2016/08/anime-characters-best-multi.jpg?w=1536&h=948&crop=1" alt="Anime Image" width="95%">
+<img src="./assets/anime-world.jpeg" alt="Anime Image" width="80%">
 
 *Stay inspired, stay true to yourself, and keep pushing forward!*
 
