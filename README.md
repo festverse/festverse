@@ -5,9 +5,9 @@
 </div>
 
 ## 🧑‍💻 About Me
-Hello! I'm **Utsav**, a passionate anime lover, programmer, and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas, and inspirations. 
+Hello! I'm **Utsav**, a passionate anime lover, programmer and creator. I blend the world of technology with anime-inspired creativity. Here, you'll find my projects, ideas and inspirations. 
 
-> Building Tools That Blend Anime Culture With Modern Engineering — from REST APIs To WhatsApp Bots To Scripts for VFX Compositing.
+> Building Tools That Blend Anime Culture With Modern Engineering - from REST APIs To WhatsApp Bots To Scripts for VFX Compositing.
 
 ## ❤️‍🔥 Anime Inspirations
 Here are some anime that inspire me deeply:
@@ -115,7 +115,7 @@ Here are some anime that inspire me deeply:
 
 <img src="./assets/anime-world.jpeg" alt="Anime Image" width="95%">
 
-*Stay inspired, stay true to yourself, and keep pushing forward!*
+*Stay inspired, stay true to yourself and keep pushing forward!*
 
 </div>
 
@@ -126,7 +126,7 @@ Here are some anime that inspire me deeply:
 
 ---
 
-*🚀 Thanks For Visiting My Profile, And Feel Free To Explore My Repositories!*
+*🚀 Thanks For Visiting My Profile And Feel Free To Explore My Repositories!*
 
 ---
 
